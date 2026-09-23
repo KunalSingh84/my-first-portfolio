@@ -11,8 +11,6 @@ body {
 	padding: 0;
 	margin: 0;
 	box-sizing: border-box;
-	scrollbar-width: auto;
-	scrollbar-color: rgb(244, 56, 191) rgb(196, 94, 234);
 }
 
 a {
